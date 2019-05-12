@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Mirrored Projects
 
-You can use the [editor on GitHub](https://github.com/jdstroy/vpdweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've mirrored projects that I found interesting or useful.  This is in case Google decides to pull the plug, or the author decides to pull the plug.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SourceForge
 
-### Markdown
+* [Janel](https://sourceforge.net/projects/janel/) [mirror](https://bitbucket.org/jdstroy/janel/src/default/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Google Code hosting
 
-```markdown
-Syntax highlighted code block
+* [Program AB](https://code.google.com/p/program-ab/) [mirror](https://bitbucket.org/jdstroy/program-ab/src/default/)
+* [tiscript](https://code.google.com/archive/p/tiscript/) [mirror](https://github.com/jdstroy/tiscript)
 
-# Header 1
-## Header 2
-### Header 3
+### Github
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdstroy/vpdweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [AlphaFS](https://github.com/alphaleonis/AlphaFS) [mirror](https://github.com/jdstroy/AlphaFS)
